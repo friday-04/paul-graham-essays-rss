@@ -6,6 +6,12 @@
         <description>RSS feed for Paul Graham's essays.</description>
     
         <item>
+            <title>The Origins of Wokeness</title>
+            <link>https://paulgraham.com/woke.html</link>
+            <description>The Origins of Wokeness</description>
+        </item>
+        
+        <item>
             <title>Writes and Write-Nots</title>
             <link>https://paulgraham.com/writes.html</link>
             <description>Writes and Write-Nots</description>
