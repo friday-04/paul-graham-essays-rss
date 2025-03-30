@@ -6,6 +6,12 @@
         <description>RSS feed for Paul Graham's essays.</description>
     
         <item>
+            <title>What to Do</title>
+            <link>https://paulgraham.com/do.html</link>
+            <description>What to Do</description>
+        </item>
+        
+        <item>
             <title>The Origins of Wokeness</title>
             <link>https://paulgraham.com/woke.html</link>
             <description>The Origins of Wokeness</description>
