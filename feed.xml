@@ -6,6 +6,12 @@
         <description>RSS feed for Paul Graham's essays.</description>
     
         <item>
+            <title>Good Writing</title>
+            <link>https://paulgraham.com/goodwriting.html</link>
+            <description>Good Writing</description>
+        </item>
+        
+        <item>
             <title>What to Do</title>
             <link>https://paulgraham.com/do.html</link>
             <description>What to Do</description>
