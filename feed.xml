@@ -6,6 +6,12 @@
         <description>RSS feed for Paul Graham's essays.</description>
     
         <item>
+            <title>The Shape of the Essay Field</title>
+            <link>https://paulgraham.com/field.html</link>
+            <description>The Shape of the Essay Field</description>
+        </item>
+        
+        <item>
             <title>Good Writing</title>
             <link>https://paulgraham.com/goodwriting.html</link>
             <description>Good Writing</description>
